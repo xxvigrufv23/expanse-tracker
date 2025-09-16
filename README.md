@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 💸 Expense Tracker (풀스택 가계부 관리 프로젝트)
