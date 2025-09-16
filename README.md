@@ -1,7 +1,5 @@
 ---
 
-## 📂 README.md (이쁘게 꾸민 버전)
-
 ```markdown
 # 💸 Expense Tracker (풀스택 가계부 관리 프로젝트)
 
